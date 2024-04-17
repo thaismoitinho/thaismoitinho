@@ -18,3 +18,5 @@
 <img align="center" alt = figma" src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white /> 
 <img align="center" alt = "canva" src=https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white /> 
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
