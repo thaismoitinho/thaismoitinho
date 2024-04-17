@@ -16,17 +16,18 @@
 <img align="center" alt = "react" src= https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB /> 
 <img align="center" alt = "mysql" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white /> 
 <img align="center" alt = "aws_amazon" src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white />
-<img align="center" alt = "notion"javascript" src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white /> 
-<img align="center" alt = "trello" src=https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white /> 
-</div>
 
 </div>
 
-## Ferramentas Utilizadas em Projetos de UI 🎨
+</div>
+
+## Ferramentas Utilizadas em Projetos de UI/UX 🎨
 <div style="display: inline_block"> <br/>
 <img align="center" alt = figma" src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white /> 
 <img align="center" alt = "canva" src=https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white /> 
 <img align="center" alt = "miro" src=https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white /> 
+<img align="center" alt = "notion"javascript" src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white /> 
+<img align="center" alt = "trello" src=https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white /> 
 </div>
 
 ## Principais Linguagens em Projetos 🔧
