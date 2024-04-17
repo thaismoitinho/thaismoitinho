@@ -21,7 +21,7 @@
 <img align="center" alt="react" src= https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB /> 
 <img align="center" alt="mysql" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white /> 
 <img align="center" alt="aws_amazon" src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white />
-<img align="center" alt="CSS3" src="data:image/svg+xml,%3Csvg role='img' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Ctitle%3ECSS3%3C/title%3E%3Cpath d='M1.5 0
+
 
 </div>
 
