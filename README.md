@@ -7,7 +7,7 @@
 <br/>
 🌐 I can communicate and collaborate in English comfortably. Currently at an intermediate level, I am developing my skills to learn more.
 <br/>
-📧 contatothais23@hotmail.com
+📫 contatothais23@hotmail.com
 
 
 ![Thais](https://github-readme-stats.vercel.app/api?username=thaismoitinho&show_icons=true&theme=tokyonight)
