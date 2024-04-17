@@ -1,11 +1,10 @@
 # Hello, I'm Thais! 👋
 
 <div>
-<br/>
 🚀 Student at São Paulo Tech School: I'm a student at São Paulo Tech School, focused on learning more about technology.
-<br/>
+
 💻 Passionate about Development: I love coding and I'm always learning and taking on new challenges.
-<br/>
+
 🌐 English Speaker: I can communicate and collaborate in English comfortably.
 </div>
 
