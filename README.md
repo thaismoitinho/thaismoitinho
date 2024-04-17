@@ -36,8 +36,8 @@
 ## Top Languages in Projects 🔧
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismoitinho&hide_progress=true)
 
-## Contact-me!
+## Follow me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-stefani-moitinho-42bb7122b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Blog](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
-)] (contatothais23@hotmail.com)
+)] ()
 
