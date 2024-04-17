@@ -2,7 +2,7 @@
 
 👩🏻‍🎓 Eu sou estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech School. Atualmente, estou aprimorando minhas habilidades em desenvolvimento e trabalho como profissional de Implantação de Sistemas na JUNIX.
 
-🚀 Estou apaixonada por aprender novas tecnologias e aplicar meus conhecimentos para criar soluções eficazes e inovadoras.
+🚀 Estou apaixonada por aprender novas tecnologias e aplicar meus conhecimentos para criar soluções.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
