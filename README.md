@@ -13,9 +13,9 @@
 <img align="center" alt = "javascript" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black /> 
 <img align="center" alt = "css" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white /> 
 <img align="center" alt = "java" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white /> 
-<img align="center" alt = "react" src= https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB /> 
+<img align="center" alt = "react" src= https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB /> <br/>
 <img align="center" alt = "mysql" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white /> 
-<img align="center" alt = "aws_amazon" src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white /> 
+<img align="center" alt = "aws_amazon" src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white /><br/>
 <img align="center" alt = "notion"javascript" src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white /> 
 <img align="center" alt = "trello" src=https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white /> 
 </div>
