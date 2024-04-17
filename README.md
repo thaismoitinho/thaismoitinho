@@ -3,7 +3,7 @@
 
 🚀 I'm a student at São Paulo Tech School, focused on learning more about technology.
 <br/>
-💻 I love coding and I'm always learning and taking on new challenges.
+💻 My passion lies in coding, and I am dedicated to continuous growth and tackling new challenges.
 <br/>
 🌐 I can communicate and collaborate in English comfortably. Currently at an intermediate level, I am developing my skills to learn more.
 <br/>
