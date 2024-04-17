@@ -1,11 +1,11 @@
 # Hello, I'm Thais! 👋
 
 
-🚀 Student at São Paulo Tech School: I'm a student at São Paulo Tech School, focused on learning more about technology.
+🚀 I'm a student at São Paulo Tech School, focused on learning more about technology.
 <br/>
-💻 Passionate about Development: I love coding and I'm always learning and taking on new challenges.
+💻 I love coding and I'm always learning and taking on new challenges.
 <br/>
-🌐 English Speaker: I can communicate and collaborate in English comfortably.
+🌐 I can communicate and collaborate in English comfortably. Currently at an intermediate level, I am developing my skills to learn more.
 
 
 ![Thais](https://github-readme-stats.vercel.app/api?username=thaismoitinho&show_icons=true&theme=tokyonight)
