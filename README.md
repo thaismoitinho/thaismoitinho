@@ -6,10 +6,6 @@
 
 🌱 Sempre em busca de desafios e oportunidades para crescer e contribuir para projetos que tenham impacto positivo.
 
-## 📫 Vamos nos conectar?  
-<br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-stefani-moitinho-42bb7122b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
 ## Tecnologias utilizadas frequentemente 👩🏻‍💻🚀
@@ -32,3 +28,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&DonutChartlayout=true)
 
+## 📫 Vamos nos conectar?  
+<br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-stefani-moitinho-42bb7122b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
