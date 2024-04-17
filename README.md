@@ -1,4 +1,4 @@
-# Hello, I'm Thais! 👋
+## Hello, I'm Thais! 👋
 
 
 🚀 I'm a student at São Paulo Tech School, focused on learning more about technology.
