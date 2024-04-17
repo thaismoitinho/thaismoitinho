@@ -1,7 +1,7 @@
 Hello, I'm Thais! 👋
-LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-stefani-moitinho-42bb7122b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-Thais
+![Thais](https://github-readme-stats.vercel.app/api?username=thaismoitinho&show_icons=true&theme=tokyonight)
 
 ## Frequently Used Technologies 👩🏻‍💻🚀
 <div style="display: inline_block"> <br/>
@@ -14,6 +14,7 @@ Thais
 <img align="center" alt="aws_amazon" src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white />
 </div>
 </div>
+
 ## Tools Used in UI/UX Projects 🎨
 <div style="display: inline_block"> <br/>
 <img align="center" alt="figma" src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white /> 
@@ -22,5 +23,6 @@ Thais
 <img align="center" alt="notion"javascript" src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white /> 
 <img align="center" alt="trello" src=https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white /> 
 </div>
+
 ## Top Languages in Projects 🔧
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismoitinho&hide_progress=true)
