@@ -1,6 +1,6 @@
 ### Olá, eu sou a Thais! 👋
 
-# Sou estudante de Analise e Desenvolvimento de Sistema na São Paulo Tech School, e atualmente trabalho com Implantação de Sistemas na JUNIX.
+##### Sou estudante de Analise e Desenvolvimento de Sistema na São Paulo Tech School, e atualmente trabalho com Implantação de Sistemas na JUNIX.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-stefani-moitinho-42bb7122b)
 
