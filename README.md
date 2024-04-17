@@ -4,7 +4,7 @@
 
 🚀 Estou apaixonada por aprender novas tecnologias e aplicar meus conhecimentos para criar soluções.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaismoitinho&show_icons=true&theme=tokyonight)
+![Thais](https://github-readme-stats.vercel.app/api?username=thaismoitinho&show_icons=true&theme=tokyonight)
 
 ## Tecnologias utilizadas frequentemente 👩🏻‍💻🚀
 
