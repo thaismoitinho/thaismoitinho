@@ -1,9 +1,5 @@
 ### Olá, eu sou a Thais! 👋
 
-👩🏻‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech School. Atualmente, estou aprimorando minhas habilidades em desenvolvimento e trabalho como profissional de Implantação de Sistemas.
-
-🚀 Estou apaixonada por aprender novas tecnologias e aplicar meus conhecimentos para criar soluções.
-
 ![Thais](https://github-readme-stats.vercel.app/api?username=thaismoitinho&show_icons=true&theme=tokyonight)
 
 ## Tecnologias Utilizadas Frequentemente 👩🏻‍💻🚀
