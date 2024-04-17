@@ -33,7 +33,7 @@
 <img align="center" alt="trello" src=https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white /> 
 </div>
 
-## Top Languages in Projects 🔧
+## Top Languages 🔧
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaismoitinho&hide_progress=true)
 
 ## Follow me!
