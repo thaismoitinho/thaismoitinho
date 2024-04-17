@@ -21,5 +21,5 @@
 
 ## Principais linguagens de programação 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&donut=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&DonutChartlayout=true)
 
