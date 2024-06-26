@@ -4,7 +4,7 @@
 <br/>
 💻 Minha paixão está na programação, e estou dedicada ao crescimento contínuo e enfrentamento de novos desafios.
 <br/>
-🌐 Posso me comunicar e colaborar em inglês com conforto. Atualmente, estou em um nível intermediário e trabalhando para aprimorar minhas habilidades.
+🌐 Posso me comunicar e colaborar em inglês. Atualmente, estou em um nível intermediário e trabalhando para aprimorar minhas habilidades.
 <br/>
 📫 Entre em contato! contatothais23@hotmail.com
 
