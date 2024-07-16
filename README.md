@@ -6,7 +6,7 @@
 <br/>
 🌐 Posso me comunicar e colaborar em inglês. Atualmente, estou em um nível intermediário e trabalhando para aprimorar minhas habilidades.
 <br/>
-📫 Entre em contato! contatothais23@hotmail.com
+📫 Entre em contato! thais.smoitinho@outlook.com
 
 ![Thais](https://github-readme-stats.vercel.app/api?username=thaismoitinho&show_icons=true&theme=tokyonight)
 
