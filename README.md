@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=200&section=header&text=Thais%20Moitinho&fontSize=42&fontColor=8B3A62&fontAlignY=38&desc=Project%20Analyst%20and%20Software%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Thais Moitinho" />
 
 <a href="https://github.com/thaismoitinho">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E58AB0&center=true&vCenter=true&width=600&lines=Hello%2C+I%27m+Thais!;Project+Analyst+and+Software+Engineer⭐;MBA+in+Software+Engineering+at+USP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E58AB0&center=true&vCenter=true&width=600&lines=Hello%2C+I%27m+Thais!;Project+Analyst+and+Software+Engineer;MBA+in+Software+Engineering+at+USP" alt="Typing SVG" />
 </a>
 
 <br/>
