@@ -32,12 +32,11 @@
 
 ## Project Management
 
-<img src="https://raw.githubusercontent.com/thaismoitinho/thaismoitinho/main/assets/project-management.svg" alt="Jira, Notion, Trello, Miro, Google Workspace" />
-
-## Design & UI/UX
-
-<img src="https://raw.githubusercontent.com/thaismoitinho/thaismoitinho/main/assets/design.svg" alt="Figma, Canva" />
----
+![Jira](https://img.shields.io/badge/%20-%20-242938?style=for-the-badge&logo=jira&logoColor=2684FF)
+![Notion](https://img.shields.io/badge/%20-%20-242938?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/%20-%20-242938?style=for-the-badge&logo=trello&logoColor=2684FF)
+![Miro](https://img.shields.io/badge/%20-%20-242938?style=for-the-badge&logo=miro&logoColor=FFD02F)
+![Google](https://img.shields.io/badge/%20-%20-242938?style=for-the-badge&logo=google&logoColor=4285F4)
 
 ## GitHub Stats
 
