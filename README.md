@@ -30,15 +30,13 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,java,react,spring,mysql,aws&theme=dark" alt="Tech Stack" />
 
+
 ## Project Management
 
 <p align="left">
-  <img src="https://img.shields.io/badge/%20%20-242938?style=for-the-badge&logo=jira&logoColor=2684FF" height="48" />
-  <img src="https://img.shields.io/badge/%20%20-242938?style=for-the-badge&logo=notion&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/%20%20-242938?style=for-the-badge&logo=trello&logoColor=2684FF" height="48" />
-  <img src="https://img.shields.io/badge/%20%20-242938?style=for-the-badge&logo=miro&logoColor=FFD02F" height="48" />
-  <img src="https://img.shields.io/badge/%20%20-242938?style=for-the-badge&logo=google&logoColor=4285F4" height="48" />
+  <img src="https://simpleicons.dev/icons?icons=jira,notion,trello,miro,google&theme=dark&perline=5" alt="Project Management" />
 </p>
+
 
 ## GitHub Stats
 
