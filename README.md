@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 </div>
 
-## 📋 Gestão & Colaboração
+##  Gestão & Colaboração
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 </div>
 
-## 🎨 Design & UI/UX
+##  Design & UI/UX
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 🤝 Vamos conversar?
+##  Vamos conversar?
 
 <div align="center">
 
