@@ -38,11 +38,12 @@
 </p>
 
 
-## Design & UI/UX
+## Design e UI/UX
 
 <p align="left">
-  <img src="https://simpleicons.dev/icons?icons=figma,canva&theme=dark&perline=5" alt="Design & UI/UX" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
 </p>
+
 
 ## GitHub Stats
 
