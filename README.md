@@ -1,70 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=200&section=header&text=Thais%20Moitinho&fontSize=42&fontColor=8B3A62&fontAlignY=38&desc=Analista%20de%20Projetos%20e%20Eng.%20de%20Software&descSize=18&descAlignY=58" width="100%" alt="Thais Moitinho" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=200&section=header&text=Thais%20Moitinho&fontSize=42&fontColor=8B3A62&fontAlignY=38&desc=Project%20Analyst%20and%20Software%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Thais Moitinho" />
 
 <a href="https://github.com/thaismoitinho">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E58AB0&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Thais!;Analista+de+Projetos+e+Eng.+de+Software;MBA+em+Eng.+de+Software+na+USP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E58AB0&center=true&vCenter=true&width=600&lines=Hello%2C+I%27m+Thais!;Project+Analyst+and+Software+Engineer;MBA+in+Software+Engineering+at+USP" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Localização](https://img.shields.io/badge/São_Paulo-Brasil-E58AB0?style=for-the-badge&logo=googlemaps&logoColor=white)
-![MBA](https://img.shields.io/badge/MBA_USP-Eng._de_Software-D4719C?style=for-the-badge&logo=academia&logoColor=white)
-![Inglês](https://img.shields.io/badge/Inglês-Intermediário-C25E8A?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Location](https://img.shields.io/badge/São_Paulo-Brazil-E58AB0?style=for-the-badge&logo=googlemaps&logoColor=white)
+![MBA](https://img.shields.io/badge/MBA_USP-Software_Engineering-D4719C?style=for-the-badge&logo=academia&logoColor=white)
+![English](https://img.shields.io/badge/English-Intermediate-C25E8A?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 </div>
 
 ---
 
-## 👩🏻‍💻 Sobre mim
+## 👩🏻‍💻 About me
 
-- 🎓 Graduada em **Análise e Desenvolvimento de Sistemas** e cursando **MBA em Engenharia de Software na USP**
-- 📊 Mais de **3 anos** em análise de projetos e desenvolvimento de sistemas, com foco em **fintech e software**
-- 🧩 Gosto de ficar na ponte entre **gestão, produto e código**: organizar processos, alinhar times e entregar valor
-- 🌱 Metodologias ágeis no dia a dia: **Scrum**, **Kanban** e muito **Jira**
-- 🌐 Colaboro em inglês (nível intermediário)
+- 🎓 Graduated in **Systems Analysis and Development** and currently pursuing an **MBA in Software Engineering at USP**
+- 📊 Over **3 years** in project analysis and systems development, focused on **fintech and software**
+- 🧩 I like working at the bridge between **management, product and code**: organizing processes, aligning teams and delivering value
+- 🌱 Agile methodologies day to day: **Scrum**, **Kanban** and lots of **Jira**
+- 🌐 I collaborate in English (intermediate level)
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
-<div>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,spring,mysql,aws&theme=dark" alt="Tech Stack" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+## Project Management
 
-</div>
-
-##  Gestão de Projetos
-
-<div>
+<img src="https://skillicons.dev/icons?i=notion&theme=dark" alt="Notion" />
+<br/>
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-</div>
+## Design & UI/UX
 
-##  Design & UI/UX
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+<br/>
 
-<div>
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <div>
 
@@ -74,7 +59,7 @@
 
 ---
 
-##  Vamos conversar?
+## Let's talk!
 
 <div>
 
