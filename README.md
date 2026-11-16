@@ -32,9 +32,6 @@
 
 ## Project Management
 
-<img src="https://skillicons.dev/icons?i=notion&theme=dark" alt="Notion" />
-<br/>
-
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
@@ -43,11 +40,8 @@
 
 ## Design & UI/UX
 
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
-<br/>
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
 ---
 
 ## GitHub Stats
