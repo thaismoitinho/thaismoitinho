@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=200&section=header&text=Thais%20Moitinho&fontSize=42&fontColor=8B3A62&fontAlignY=38&desc=Project%20Analyst%20and%20Software%20Engineer⭐&descSize=18&descAlignY=58" width="100%" alt="Thais Moitinho" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=200&section=header&text=Thais%20Moitinho&fontSize=42&fontColor=8B3A62&fontAlignY=38&desc=Project%20Analyst%20and%20Software%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Thais Moitinho" />
 
 <a href="https://github.com/thaismoitinho">
