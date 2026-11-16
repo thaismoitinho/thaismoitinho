@@ -38,15 +38,6 @@
 </p>
 
 
-## GitHub Stats
-
-<div>
-
-<img src="https://streak-stats.demolab.com/?user=thaismoitinho&hide_border=true&background=FDE2EE&ring=E58AB0&fire=D4719C&currStreakNum=8B3A62&sideNums=8B3A62&currStreakLabel=C25E8A&sideLabels=C25E8A&dates=B07A92&v=2" alt="GitHub Streak" />
-
-</div>
-
-
 ## Let's talk!
 
 <div>
@@ -55,6 +46,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thais.ssmoitinho@gmail.com)
 
 <br/>
+
 ## GitHub Stats
 
 <div>
@@ -62,6 +54,7 @@
 <img src="https://streak-stats.demolab.com/?user=thaismoitinho&hide_border=true&background=FDE2EE&ring=E58AB0&fire=D4719C&currStreakNum=8B3A62&sideNums=8B3A62&currStreakLabel=C25E8A&sideLabels=C25E8A&dates=B07A92&v=2" alt="GitHub Streak" />
 
 </div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=100&section=footer" width="100%" alt="" />
 
