@@ -69,12 +69,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thaismoitinho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismoitinho&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=thaismoitinho&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=thaismoitinho&hide_border=true&background=FDE2EE&ring=E58AB0&fire=D4719C&currStreakNum=8B3A62&sideNums=8B3A62&currStreakLabel=C25E8A&sideLabels=C25E8A&dates=B07A92&v=2" alt="GitHub Streak" />
 
 </div>
 
