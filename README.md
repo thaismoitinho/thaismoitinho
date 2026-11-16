@@ -33,9 +33,7 @@
 ## Project Management
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jira,notion,trello,miro,google&theme=dark" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,notion,trello,miro,gmail&theme=dark" />
 </p>
 
 ## GitHub Stats
