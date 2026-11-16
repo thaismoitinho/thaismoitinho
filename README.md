@@ -33,7 +33,11 @@
 ## Project Management
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira,notion,trello,miro,gmail&theme=dark" />
+  <img src="https://img.shields.io/badge/%20%20-242938?style=for-the-badge&logo=jira&logoColor=2684FF" height="48" />
+  <img src="https://img.shields.io/badge/%20%20-242938?style=for-the-badge&logo=notion&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/%20%20-242938?style=for-the-badge&logo=trello&logoColor=2684FF" height="48" />
+  <img src="https://img.shields.io/badge/%20%20-242938?style=for-the-badge&logo=miro&logoColor=FFD02F" height="48" />
+  <img src="https://img.shields.io/badge/%20%20-242938?style=for-the-badge&logo=google&logoColor=4285F4" height="48" />
 </p>
 
 ## GitHub Stats
