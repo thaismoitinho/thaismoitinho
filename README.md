@@ -32,16 +32,11 @@
 
 ## Project Management
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<img src="https://raw.githubusercontent.com/thaismoitinho/thaismoitinho/main/assets/project-management.svg" alt="Jira, Notion, Trello, Miro, Google Workspace" />
 
 ## Design & UI/UX
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<img src="https://raw.githubusercontent.com/thaismoitinho/thaismoitinho/main/assets/design.svg" alt="Figma, Canva" />
 ---
 
 ## GitHub Stats
