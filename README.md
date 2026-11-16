@@ -42,6 +42,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+  <img src="https://img.shields.io/badge/-%23242938?style=for-the-badge&logo=canva&logoColor=00C4CC" height="48" />
 </p>
 
 
