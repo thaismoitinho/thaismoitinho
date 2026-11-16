@@ -19,7 +19,7 @@
 ## 👩🏻‍💻 Sobre mim
 
 - 🎓 Graduada em **Análise e Desenvolvimento de Sistemas** e cursando **MBA em Engenharia de Software na USP**
-- 📊 Mais de **3 anos** em análise de projetos e implantação de sistemas, com foco em **fintech e software**
+- 📊 Mais de **3 anos** em análise de projetos e desenvolvimento de sistemas, com foco em **fintech e software**
 - 🧩 Gosto de ficar na ponte entre **gestão, produto e código**: organizar processos, alinhar times e entregar valor
 - 🌱 Metodologias ágeis no dia a dia: **Scrum**, **Kanban** e muito **Jira**
 - 🌐 Colaboro em inglês (nível intermediário)
