@@ -38,13 +38,6 @@
 </p>
 
 
-## Design e UI/UX
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
-</p>
-
-
 ## GitHub Stats
 
 <div>
