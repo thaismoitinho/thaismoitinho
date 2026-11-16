@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=200&section=header&text=Thais%20Moitinho&fontSize=42&fontColor=8B3A62&fontAlignY=38&desc=Analista%20de%20Projetos%20e%20Eng.%20de%20Software&descSize=18&descAlignY=58" width="100%" alt="Thais Moitinho" />
 
 <a href="https://github.com/thaismoitinho">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E58AB0&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Thais!;Analista+de+Projetos+e+Eng.+de+Software;MBA+em+Eng.+de+Software+na+USP;Transformando+ideias+em+sistemas+que+funcionam" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E58AB0&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Thais!;Analista+de+Projetos+e+Eng.+de+Software;MBA+em+Eng.+de+Software+na+USP" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![Localização](https://img.shields.io/badge/São_Paulo-Brasil-E58AB0?style=for-the-badge&logo=googlemaps&logoColor=white)
-![MBA](https://img.shields.io/badge/MBA_USP-Eng._de_Software-C8102E?style=for-the-badge&logo=academia&logoColor=white)
-![Inglês](https://img.shields.io/badge/Inglês-Intermediário-0A66C2?style=for-the-badge&logo=googletranslate&logoColor=white)
+![MBA](https://img.shields.io/badge/MBA_USP-Eng._de_Software-D4719C?style=for-the-badge&logo=academia&logoColor=white)
+![Inglês](https://img.shields.io/badge/Inglês-Intermediário-C25E8A?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 </div>
 
@@ -21,8 +21,7 @@
 - 🎓 Graduada em **Análise e Desenvolvimento de Sistemas** e cursando **MBA em Engenharia de Software na USP**
 - 📊 Mais de **3 anos** em análise de projetos e implantação de sistemas, com foco em **fintech e software**
 - 🧩 Gosto de ficar na ponte entre **gestão, produto e código**: organizar processos, alinhar times e entregar valor
-- ⚙️ Metodologias ágeis no dia a dia: **Scrum**, **Kanban** e muito **Jira**
-- 🌱 Sempre aprendendo, sempre evoluindo, sempre de olho no próximo desafio
+- 🌱 Metodologias ágeis no dia a dia: **Scrum**, **Kanban** e muito **Jira**
 - 🌐 Colaboro em inglês (nível intermediário, em evolução constante)
 
 ---
