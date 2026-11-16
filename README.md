@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C5CFF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+a+Thais!+👋;Analista+de+Projetos+%26+Eng.+de+Software;MBA+em+Eng.+de+Software+na+USP;Transformando+ideias+em+sistemas+que+funcionam+🚀" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thais%20Moitinho&fontSize=40&fontColor=ffffff&desc=Analista%20de%20Projetos%20%26%20Eng.%20de%20Software&descAlignY=65" width="100%" />
+
+<a href="https://github.com/thaismoitinho">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C5CFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Thais!;Analista+de+Projetos+%26+Eng.+de+Software;MBA+em+Eng.+de+Software+na+USP;Transformando+ideias+em+sistemas+que+funcionam" alt="Typing SVG" />
+</a>
 
 <br/>
 
-![Perfil](https://img.shields.io/badge/São_Paulo-Brasil-7C5CFF?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Localização](https://img.shields.io/badge/São_Paulo-Brasil-7C5CFF?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![MBA](https://img.shields.io/badge/MBA_USP-Eng._de_Software-C8102E?style=for-the-badge&logo=academia&logoColor=white)
 ![Inglês](https://img.shields.io/badge/Inglês-Intermediário-0A66C2?style=for-the-badge&logo=googletranslate&logoColor=white)
 
@@ -68,7 +72,9 @@
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=thaismoitinho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaismoitinho&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thaismoitinho&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=thaismoitinho&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -80,5 +86,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-souza-moitinho-42bb7122b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thais.smoitinho@outlook.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
